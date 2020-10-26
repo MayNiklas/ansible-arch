@@ -16,6 +16,6 @@
 - src: 'https://github.com/MayNiklas/ansible-arch-bluetooth-keyboard.git'
   name: ansible-arch-bluetooth-keyboard
   scm: git
-- src: 'https://github.com/MayNiklas/ansible-hostname'
+- src: 'https://github.com/MayNiklas/ansible-hostname.git'
   name: ansible-hostname
   scm: git
