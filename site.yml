@@ -1,0 +1,10 @@
+---
+ - hosts: localhost
+   roles:
+    - ansible-pacman
+    - ansible-ssh
+    - ansible-ssh-server
+    - ansible-git
+    - ansible-docker
+    - ansible-arch-bluetooth-keyboard
+    - ansible-hostname
