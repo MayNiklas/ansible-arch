@@ -5,5 +5,9 @@ git_name: "MayNiklas"
 git_mail: "user@example.com"
 
 pacman_packages:
+  - vlc
+  - htop
+  - nvtop
+  - glances
   - firefox
   - chromium
