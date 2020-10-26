@@ -18,3 +18,4 @@ pacman_packages:
   - thunderbird-i18n-de
   - thunderbird-i18n-en-gb
   - thunderbird-i18n-en-us
+  - screenfetch
