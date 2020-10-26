@@ -1,0 +1,8 @@
+---
+hostname: arch
+ssh_comment: arch-workstation
+git_name: "MayNiklas"
+git_mail: "user@example.com"
+
+pacman_packages:
+  - firefox
