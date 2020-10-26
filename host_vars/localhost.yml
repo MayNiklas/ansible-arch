@@ -6,3 +6,4 @@ git_mail: "user@example.com"
 
 pacman_packages:
   - firefox
+  - chromium
