@@ -8,6 +8,8 @@ pacman_packages:
   - vlc
   - htop
   - nvtop
+  - nvidia
+  - nvidia-settings
   - glances
   - firefox
   - chromium
