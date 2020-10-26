@@ -1,3 +1,6 @@
 - src: 'https://github.com/MayNiklas/ansible-pacman.git'
   name: ansible-pacman
   scm: git
+- src: 'https://github.com/MayNiklas/ansible-ssh.git'
+  name: ansible-ssh
+  scm: git
