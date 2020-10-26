@@ -10,3 +10,6 @@
 - src: 'https://github.com/MayNiklas/ansible-git.git'
   name: ansible-git
   scm: git
+- src: 'https://github.com/MayNiklas/ansible-docker.git'
+  name: ansible-docker
+  scm: git
