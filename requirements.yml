@@ -4,3 +4,6 @@
 - src: 'https://github.com/MayNiklas/ansible-ssh.git'
   name: ansible-ssh
   scm: git
+- src: 'https://github.com/MayNiklas/ansible-ssh-server.git'
+  name: ansible-ssh-server
+  scm: git
