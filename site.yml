@@ -4,6 +4,7 @@
     - ansible-pacman
     - ansible-ssh
     - ansible-ssh-server
+    - ansible-ufw
     - ansible-git
     - ansible-docker
     - ansible-arch-bluetooth-keyboard

@@ -19,3 +19,6 @@
 - src: 'https://github.com/MayNiklas/ansible-hostname.git'
   name: ansible-hostname
   scm: git
+- src: 'https://github.com/pinpox/ansible-ufw.git'
+  name: ansible-ufw
+  scm: git
