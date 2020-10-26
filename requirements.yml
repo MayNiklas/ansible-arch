@@ -13,3 +13,6 @@
 - src: 'https://github.com/MayNiklas/ansible-docker.git'
   name: ansible-docker
   scm: git
+- src: 'https://github.com/MayNiklas/ansible-arch-bluetooth-keyboard.git'
+  name: ansible-arch-bluetooth-keyboard
+  scm: git
