@@ -1,0 +1,3 @@
+- src: 'https://github.com/MayNiklas/ansible-pacman.git'
+  name: ansible-pacman
+  scm: git
