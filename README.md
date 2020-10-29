@@ -1,7 +1,7 @@
 # ansible-arch
-[![Lines Of Code](https://tokei.rs/b1/github/MayNiklas/ansible-arch-setup?category=lines)](https://github.com/XAMPPRocky/tokei)
-[![Lines Of Code](https://tokei.rs/b1/github/MayNiklas/ansible-arch-setup?category=code)](https://github.com/XAMPPRocky/tokei)
-[![Lines Of Code](https://tokei.rs/b1/github/MayNiklas/ansible-arch-setup?category=files)](https://github.com/XAMPPRocky/tokei)
+[![Lines Of Code](https://tokei.rs/b1/github/MayNiklas/ansible-arch?category=lines)](https://github.com/XAMPPRocky/tokei)
+[![Lines Of Code](https://tokei.rs/b1/github/MayNiklas/ansible-arch?category=code)](https://github.com/XAMPPRocky/tokei)
+[![Lines Of Code](https://tokei.rs/b1/github/MayNiklas/ansible-arch?category=files)](https://github.com/XAMPPRocky/tokei)
 
 0. Make sure ansible is installed:
 ```bash
