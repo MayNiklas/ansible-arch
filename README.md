@@ -3,6 +3,14 @@
 [![Lines Of Code](https://tokei.rs/b1/github/MayNiklas/ansible-arch?category=code)](https://github.com/XAMPPRocky/tokei)
 [![Lines Of Code](https://tokei.rs/b1/github/MayNiklas/ansible-arch?category=files)](https://github.com/XAMPPRocky/tokei)
 
+### Intro
+This ansible-playbook is being used for setting up an allready installed Arch Linux. Please make sure, that you understand the underlaying roles and what they do before following my quickstart guide.
+
+### Post install
+My arch install is splitted into "pre and postinstall" ansible-playbooks. 
+There is a second playbook I'm using to install arch from the live-iso:
+[ansible-arch-install](https://github.com/MayNiklas/ansible-arch-install.git)
+
 ### Roles used
 - [ansible-pacman](https://github.com/MayNiklas/ansible-pacman.git)
 - [ansible-arch-keyserver](https://github.com/MayNiklas/ansible-arch-keyserver.git)
