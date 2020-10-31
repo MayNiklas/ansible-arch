@@ -4,7 +4,6 @@
 [![Lines Of Code](https://tokei.rs/b1/github/MayNiklas/ansible-arch?category=files)](https://github.com/XAMPPRocky/tokei)
 
 ### Roles used
-- [ansible-arch-setup](https://github.com/MayNiklas/ansible-arch-setup.git)
 - [ansible-pacman](https://github.com/MayNiklas/ansible-pacman.git)
 - [ansible-arch-keyserver](https://github.com/MayNiklas/ansible-arch-keyserver.git)
 - [ansible-arch-xorg](https://github.com/MayNiklas/ansible-arch-xorg.git)
