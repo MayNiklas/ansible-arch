@@ -2,6 +2,7 @@
  - hosts: localhost
    roles:
     - ansible-pacman
+    - ansible-arch-xorg
     - ansible-ssh
     - ansible-ssh-server
     - ansible-ufw
