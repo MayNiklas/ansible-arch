@@ -2,6 +2,7 @@
  - hosts: localhost
    roles:
     - ansible-pacman
+    - ansible-arch-keyserver
     - ansible-arch-xorg
     - ansible-kde-plasma
     - ansible-ssh
