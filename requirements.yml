@@ -4,6 +4,9 @@
 - src: 'https://github.com/MayNiklas/ansible-arch-xorg.git'
   name: ansible-arch-xorg
   scm: git
+- src: 'https://github.com/MayNiklas/ansible-kde-plasma.git'
+  name: ansible-kde-plasma
+  scm: git
 - src: 'https://github.com/MayNiklas/ansible-ssh.git'
   name: ansible-ssh
   scm: git
