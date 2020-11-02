@@ -25,3 +25,4 @@ pacman_packages:
   - thunderbird-i18n-en-us
   - steam
   - screenfetch
+  - neofetch
