@@ -10,6 +10,7 @@ pacman_packages:
   - nvtop
   - nvidia
   - nvidia-settings
+  - obs-studio
   - ansible
   - git
   - glances
