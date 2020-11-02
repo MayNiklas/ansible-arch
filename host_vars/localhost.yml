@@ -26,3 +26,4 @@ pacman_packages:
   - steam
   - screenfetch
   - neofetch
+  - jdk-openjdk
