@@ -11,6 +11,7 @@ pacman_packages:
   - nvidia
   - nvidia-settings
   - obs-studio
+  - handbrake
   - ansible
   - git
   - glances
