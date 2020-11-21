@@ -28,5 +28,6 @@ pacman_packages:
   - steam
   - screenfetch
   - neofetch
+  - bash-completion
   - jdk-openjdk
   - gradle
