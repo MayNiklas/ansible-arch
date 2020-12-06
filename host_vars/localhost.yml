@@ -10,6 +10,7 @@ pacman_packages:
   - nvtop
   - nvidia
   - nvidia-settings
+  - wireguard-tools
   - obs-studio
   - handbrake
   - youtube-dl
