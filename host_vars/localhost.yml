@@ -30,5 +30,6 @@ pacman_packages:
   - screenfetch
   - neofetch
   - bash-completion
+  - grub-customizer
   - jdk-openjdk
   - gradle
