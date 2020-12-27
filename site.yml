@@ -12,3 +12,4 @@
     - ansible-docker
     - ansible-arch-bluetooth-keyboard
     - ansible-hostname
+    - ansible-vagrant

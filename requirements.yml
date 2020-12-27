@@ -31,3 +31,6 @@
 - src: 'https://github.com/MayNiklas/ansible-ufw.git'
   name: ansible-ufw
   scm: git
+- src: 'https://github.com/MayNiklas/ansible-vagrant.git'
+  name: ansible-vagrant
+  scm: git
