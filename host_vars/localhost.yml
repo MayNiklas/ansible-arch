@@ -16,6 +16,7 @@ pacman_packages:
   - youtube-dl
   - ansible
   - git
+  - yubioath-desktop
   - atom
   - glances
   - firefox
